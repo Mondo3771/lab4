@@ -25,7 +25,7 @@ X_validate = DesignMatrix[100: 125]
 y_validate = y_values[100: 125]
 X_Test = DesignMatrix[125:]
 y_test = y_values[125]
-print(X_Test)
+# print(X_Test)
 
 
 # B)
